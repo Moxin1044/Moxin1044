@@ -1,4 +1,4 @@
-### Hi there 👋
+### 嘿！你发现了什么？🔭
 
 <!--
 **Moxin1044/Moxin1044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
