@@ -1,16 +1,25 @@
-### 嘿！你发现了什么？🔭
+# 🚀 Welcome to the GitHub Galaxy! 🚀
+嘿，你好！我是Moxin1044，你也可以叫我“末心”或者“Moxin”。我是一个热爱编程、充满梦想和激情的开发者。
 
-<!--
-**Moxin1044/Moxin1044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 我的基本信息 🚀
+GitHub 用户名: Moxin1044\
+常用ID: 末心 / M0x1n (意味着“结束的心”，但我希望我的心永远不会结束)\
+联系方式: 
+> QQ：1044631097
 
-Here are some ideas to get you started:
+> 微信：Moxin-Sec
+## 🚀 我的专长 🚀
+代码小能手：我擅长Python、PHP和Web开发，但也喜欢尝试其他语言和技术。\
+创意无限：我总是寻找新的方法来解决问题，创造前所未有的东西。\
+团队合作者：我相信团队的力量，喜欢与他人合作实现共同的目标。\
+学无止境：正在学习Java、Golang等语言并尝试运用到项目中。
+## 🚀 我的成就 🚀
+开源贡献者：我为许多开源项目做出了贡献。\
+写作爱好者：我写了一些关于编程和技术的文章和教程。\
+合法驾驶者：我终于在18岁零2个月完成了我的驾驶证成就。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 我在做什么 🚀
+秘密项目X：一个改变世界的秘密项目...如果我能完成的话! 😜\
+学习新技能：我一直在寻找新的编程语言、框架和工具来扩展我的技能。
+## 🚀 联系我! 🚀
+想和我一起做一个项目，聊聊天，或者只是打个招呼？ 我总是对新的经历和机会持开放态度！
