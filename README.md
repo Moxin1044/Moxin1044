@@ -56,14 +56,6 @@
 
 ---
 
-## 🏆 成就 & 状态
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Moxin1044&theme=tokyonight&hide_border=true&bg_color=0d1117&title=Stars,Followers,Commits,PullRequest" />
-</p>
-
----
-
 ## 📝 关于我
 
 <div align="center">
