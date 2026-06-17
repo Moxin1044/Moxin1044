@@ -1,29 +1,112 @@
-# 🚀 Welcome to the GitHub Galaxy! 🚀
-嘿，你好！我是Moxin1044，你也可以叫我“末心”或者“Moxin”。我是一个热爱编程、充满梦想和激情的开发者。
+# 👋 你好，我是 Moxin1044 (末心)
 
-## 🚀 我的基本信息 🚀
-GitHub 用户名: Moxin1044
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,58,165,255&height=300&section=header&text=Welcome%20to%20my%20World&fontSize=90" width="100%"/>
+</p>
 
-常用ID: 末心 / M0x1n (意味着“结束的心”，但我希望我的心永远不会结束)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=%E7%88%B1%E6%8A%80%E5%9F%8E%2C+%E7%88%B1%E5%AD%A6%E4%B9%A0%2C+%E7%88%B1%E5%88%9B%E9%80%A0" alt="Typing SVG" />
+  </a>
+</p>
 
-座右铭：**吾生也有涯，而知也无涯。**
+---
 
-联系方式: 
-> QQ：1044631097
+## 📊 GitHub 统计
 
-> 微信：Moxin-Sec
-## 🚀 我的专长 🚀
-代码小能手：我擅长Python、PHP和Web开发，但也喜欢尝试其他语言和技术。\
-创意无限：我总是寻找新的方法来解决问题，创造前所未有的东西。\
-团队合作者：我相信团队的力量，喜欢与他人合作实现共同的目标。\
-学无止境：正在学习Java、Golang等语言并尝试运用到项目中。
-## 🚀 我的成就 🚀
-开源贡献者：我为许多开源项目做出了贡献。\
-写作爱好者：我写了一些关于编程和技术的文章和教程。\
-合法驾驶者：我终于在18岁零2个月完成了我的驾驶证成就。
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Moxin1044&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moxin1044&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
 
-## 🚀 我在做什么 🚀
-秘密项目X：一个改变世界的秘密项目...如果我能完成的话! 😜\
-学习新技能：我一直在寻找新的编程语言、框架和工具来扩展我的技能。
-## 🚀 联系我! 🚀
-想和我一起做一个项目，聊聊天，或者只是打个招呼？ 我总是对新的经历和机会持开放态度！
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moxin1044&theme=tokyonight&hide_border=true&background=0D1117" width="100%"/>
+</p>
+
+---
+
+## 🛠️ 技术栈
+
+### 编程语言
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,java,go,js,ts,html,css,c,cpp&theme=dark" />
+</p>
+
+### 框架 & 工具
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,nodejs,flask,django,laravel,mysql,redis,git,docker,linux,nginx&theme=dark" />
+</p>
+
+### 开发工具
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,ps&theme=dark" />
+</p>
+
+---
+
+## 🌐 社交联系
+
+<p align="center">
+  <a href="https://qq.com/1044631097">
+    <img src="https://img.shields.io/badge/QQ-1044631097-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white" />
+  </a>
+  <a href="https://weixin.qq.com/">
+    <img src="https://img.shields.io/badge/微信-Moxin--Sec-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  </a>
+  <a href="mailto:1044631097@qq.com">
+    <img src="https://img.shields.io/badge/Email-1044631097%40qq.com-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🏆 成就 & 状态
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Moxin1044&theme=tokyonight&hide_border=true&bg_color=0d1117&title=Stars,Followers,Commits,PullRequest" />
+</p>
+
+---
+
+## 📝 关于我
+
+<div align="center">
+
+> **座右铭**：吾生也有涯，而知也无涯。
+
+### 🎯 我的标签
+![Python](https://img.shields.io/badge/Python-★★★☆☆-FFD43B?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/PHP-★★★☆☆-777BB4?style=flat&logo=php)
+![Web开发](https://img.shields.io/badge/Web开发-★★★★☆-E34F26?style=flat)
+![开源贡献](https://img.shields.io/badge/开源贡献-★★★☆☆-FF6B6B?style=flat)
+
+</div>
+
+---
+
+## 📬 联系我
+
+<p align="center">
+  <i>想和我一起做项目、聊天，或者只是打个招呼？</i><br>
+  <i>我总是对新的经历和机会持开放态度！</i><br><br>
+  <a href="https://github.com/Moxin1044">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Moxin1044&style=flat-square&color=58A6FF&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Moxin1044?style=flat-square&color=58A6FF" />
+</p>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,58,165,255&height=100&section=footer)
+
+*感谢你的来访！一起探索代码的星辰大海 🚀*
+
+</div>
