@@ -1,12 +1,12 @@
 # 👋 你好，我是 Moxin1044 (末心)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,58,165,255&height=300&section=header&text=Welcome%20to%20my%20World&fontSize=90" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,58,165,255&height=300&section=header&text=Welcome%20to%20my%20World&fontSize=40" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=%E7%88%B1%E6%8A%80%E5%9F%8E%2C+%E7%88%B1%E5%AD%A6%E4%B9%A0%2C+%E7%88%B1%E5%88%9B%E9%80%A0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=%E7%88%B1%E5%AD%A6%E4%B9%A0%2C+%E7%88%B1%E5%88%9B%E9%80%A0" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,10 +17,6 @@
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Moxin1044&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moxin1044&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moxin1044&theme=tokyonight&hide_border=true&background=0D1117" width="100%"/>
 </p>
 
 ---
@@ -75,8 +71,11 @@
 > **座右铭**：吾生也有涯，而知也无涯。
 
 ### 🎯 我的标签
-![Python](https://img.shields.io/badge/Python-★★★☆☆-FFD43B?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/PHP-★★★☆☆-777BB4?style=flat&logo=php)
+![Python](https://img.shields.io/badge/Python-★★★★☆-FFD43B?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/PHP-★★★★☆-777BB4?style=flat&logo=php)
+![Go](https://img.shields.io/badge/Go-★★★★☆-00ADD8?style=flat&logo=go&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-★★★★☆-42B883?style=flat&logo=vuedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-★★★☆☆-239120?style=flat&logo=csharp&logoColor=white)
 ![Web开发](https://img.shields.io/badge/Web开发-★★★★☆-E34F26?style=flat)
 ![开源贡献](https://img.shields.io/badge/开源贡献-★★★☆☆-FF6B6B?style=flat)
 
